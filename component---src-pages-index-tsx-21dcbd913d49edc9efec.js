@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkresume=self.webpackChunkresume||[]).push([[691],{7200:function(e,s,t){t.r(s);var a=t(7294);const n={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};s.default=()=>a.createElement("main",{style:n})}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-21dcbd913d49edc9efec.js.map
